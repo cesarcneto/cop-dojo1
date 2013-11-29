@@ -3,6 +3,9 @@ package br.com.atech.cop.dojo1.miojo;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Sérgio Francisco Pina (sms.spina@gmail.com)
+ */
 public class MiojoMaster {
 
 	List<Integer> listaMenor = new ArrayList<Integer>();
